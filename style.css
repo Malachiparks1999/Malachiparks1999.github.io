@@ -2,6 +2,15 @@
 
 body{
     background-image: url("images/1673318.jpg"); /* Cyber picture not mine */
-    background-color: blueviolet;
-    color: whitesmoke;
+    background-color: blueviolet; /*if background doesn't exist */
+    color: whitesmoke; /* font color */
+    background-size: cover; /* scales to fit webpage */
+    text-align: initial;
+}
+
+/* CSS for classes */
+
+.mainHeader{
+    font-style: italic;
+    text-decoration: underline;
 }
