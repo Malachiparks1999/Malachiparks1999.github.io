@@ -8,9 +8,14 @@ body{
     text-align: initial;
 }
 
+a{
+    color: whitesmoke;
+}
+
 /* CSS for classes */
 
 .mainHeader{
     font-style: italic;
     text-decoration: underline;
 }
+
